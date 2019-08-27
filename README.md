@@ -1,4 +1,4 @@
 # Simple timeline
  A simple timeline
 
-![] (screen.png)
+![](screen.png)
